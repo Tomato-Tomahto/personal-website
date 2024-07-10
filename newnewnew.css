@@ -1,0 +1,105 @@
+body{
+    background-color: antiquewhite;     
+    text-align: center;
+    font-size: x-large;
+    padding: 50px;
+    background-image: url("star.avif");
+   
+}
+
+p{
+    color:white
+    
+    
+}
+
+.p1{
+    color: #000000;
+}
+
+h1, h2{
+    color: white
+    
+}
+
+
+.block, .block{
+    height: 130px;
+    width: 2000px;
+    margin: 0 auto;
+    padding:25 px;
+    background-color: #fff0f0;
+   
+
+}
+
+
+
+.block2 {
+    height: 65px;
+    width: 530px;
+    margin: 0 auto;
+    padding:25 px;
+    background-color: #fff0f0;
+
+
+}
+
+.block3{
+    height: 500px;
+    width: 1770px;
+    margin: 0 auto;
+    margin-top: 200px;
+    margin-right: 0 auto;
+    margin-left: 0 auto;
+    margin-bottom: 0 auto;
+    
+    background-color: #fff0f0;
+
+
+
+}
+
+.button1{
+
+
+
+    border-radius: 8px;
+    background-color: #fff0f0;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 90px;
+    border-radius: 100px;
+    text-align: center;
+
+}
+.button2{
+
+
+
+    border-radius: 8px;
+    background-color: #fff0f0;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    width: 50%;
+
+}
+.button1, .button2:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+ 
+    
+  }
+  mark{
+    background-color:#000000
+  }
+
+
+.button1, .button2:hover {background-color: #000000}
+
+.button1, .button2:active {
+  background-color: #000000;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
